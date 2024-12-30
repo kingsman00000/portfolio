@@ -9,7 +9,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center space-y-8">
           {/* Hero Section */}
           <h1 className="bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-neutral-100 dark:to-neutral-400 text-4xl md:text-6xl lg:text-7xl font-sans py-2 md:py-4 relative z-20 font-bold tracking-tight">
-            Harshvardhan
+            Harsh Vardhan
           </h1>
           <p className="text-lg md:text-xl text-neutral-700 dark:text-neutral-300 font-medium">
             Aspiring Software Developer | Machine Learning Enthusiast | Web Developer
