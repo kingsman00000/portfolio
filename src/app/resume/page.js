@@ -8,7 +8,7 @@ export default function ResumePage() {
         title: "B.Tech in Computer Science",
         organization: "NIT Patna",
         duration: "2021 - Present",
-        details: "CGPA: 6.77",
+        details: "CGPA: 7.05",
       },
       {
         title: "Intermediate",
