@@ -3,6 +3,7 @@ import { ThemeProvider } from "@/components/providers/theme-provider";
 import { ModeToggle } from "@/components/ui/mode-toggler";
 import { Nav } from "@/components/ui/nav";
 import { Footer } from "@/components/ui/footer";
+import { Chatbot } from "@/components/ui/chatbot";
 
 export const metadata = {
   title: "Harshvardhan's Portfolio",
@@ -23,6 +24,7 @@ export default function RootLayout({ children }) {
           <main className="pt-16 flex-1">{children}</main>
           <Footer />
           <ModeToggle className="fixed bottom-4 right-4" />
+          <Chatbot />
         </ThemeProvider>
       </body>
     </html>
