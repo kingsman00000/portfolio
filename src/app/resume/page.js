@@ -57,7 +57,7 @@ export default function ResumePage() {
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-6">Achievements</h2>
         <ul className="space-y-4 list-disc list-inside text-muted-foreground">
-          <li>Solved 500+ DSA questions</li>
+          <li>Solved 500+ DSA questions at all coding platforms</li>
           <li>Byteverse Hackathon: Top 20 teams at NIT Patna</li>
           <li>Secured AIR 3766 in JEE 2021</li>
         </ul>
